@@ -268,7 +268,7 @@ All other brand and product names are trademarks, registered trademarks or servi
 See our contributors list in [CONTRIBUTORS.md](https://github.com/ever-co/ever-demand/blob/develop/.github/CONTRIBUTORS.md).  
 You can also view full list of our [contributors tracked by Github](https://github.com/ever-co/ever-demand/graphs/contributors).
 
-<img src="https://ibb.co/Zdx8bZF" />
+<img src="https://i.ibb.co/jhDMjpQ/Capture.png" />
 
 ## ©️ Copyright
 
